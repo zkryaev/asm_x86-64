@@ -1,0 +1,1 @@
+void asm_NearNeighbour(int w1, int h1, int w2, int h2, unsigned char* src, unsigned char* dst);
